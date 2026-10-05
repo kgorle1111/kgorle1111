@@ -1,6 +1,26 @@
-# 💫 About Me:
-- 🔭 I'm currently working on **Boleto**, an on-device, Spanish-first wage-audit tool for California farmworkers. A local Gemma model reads handwritten pay tickets, a deterministic engine applies the wage law, and a human confirms anything the model isn't sure about.<br>- 👯 I'm looking to collaborate on vertical AI tools for niche professional services, and on-device or human-in-the-loop systems where the AI drafts and the human decides.<br>- 🌱 I'm currently learning deeper C/C++ and systems programming, plus on-device ML (MLX, quantized vision models).<br>- 💬 Ask me about eval-driven AI engineering, right-sizing models to the task, and designing agents where a deterministic engine and a human gate keep the LLM honest.
+Hey, I'm Kannishk 👋
+I build AI tools where the model drafts and a person decides. Lately that means giving coding agents a budget, and making them prove they're done.
 
+🐜 Right now: AntStreet
+Give AI coding agents a budget and a spec. You approve the acceptance checks first, a sandboxed gate (not the agent) decides what passed, and every dollar lands on a signed ledger. "Done" means the checks passed, and you can verify it.
+
+The cast: a shrewd monocled pig investor (you), a bull boss, and hard-hat engineer ants. 🐷🐂🐜
+
+👉 github.com/kgorle1111/antstreet
+
+🔭 Other things I've built
+Boleto: an on-device, Spanish-first wage audit for California farmworkers. A local Gemma model reads handwritten pay tickets, a deterministic engine applies the wage law, and a human confirms anything the model isn't sure about.
+permission-aware-rag: RAG for underwriting that filters by access rights before ranking.
+CruzAid-2026: an SMS triage bot that points Santa Cruz students to the nearest health resources. Built at CruzHacks 2026.
+forge: an AI tutor that won't let you fool yourself. You rebuild the lesson from memory to move on.
+Also in the pile: specsentry, permit-packet-assistant, llm-cost-forensics, Rehearsal.
+
+💬 Ask me about
+
+Testing AI systems with evals instead of vibes
+Picking the smallest model that does the job
+Agents where plain code and a human gate keep the LLM honest
+I'm also keen to collaborate on vertical AI tools for niche professional services, and on-device or human-in-the-loop systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kannishknaidugorle) 
