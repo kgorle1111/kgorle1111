@@ -6,7 +6,7 @@ Give AI coding agents a budget and a spec. You approve the acceptance checks fir
 
 The cast: a shrewd monocled pig investor (you), a bull boss, and hard-hat engineer ants. 🐷🐂🐜
 
-👉 htts://github.com/kgorle1111/antstreet
+👉 https://github.com/kgorle1111/antstreet
 
 🔭 Other things I've built
 Boleto: an on-device, Spanish-first wage audit for California farmworkers. A local Gemma model reads handwritten pay tickets, a deterministic engine applies the wage law, and a human confirms anything the model isn't sure about.
